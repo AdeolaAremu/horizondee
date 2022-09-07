@@ -1,5 +1,5 @@
-### Hi there 👋
-this is tribute page sampling i did in the recent time,it was quite refreshing
+....starting with a step👋
+i am a web developer
 
 
 <!--
